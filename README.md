@@ -8,10 +8,6 @@ Link too the project:
 
 Solution & Source Code:
 
-Link too the project:  
-
-
-Solution & Source Code:
 ___
 
 
