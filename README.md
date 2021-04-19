@@ -7,6 +7,9 @@
 
 This is a basic project for machine learning beginners to predict the species of a new iris flower.
 
+
+**Dataset:** https://archive.ics.uci.edu/ml/datasets/Iris
+
 **Link to the project:**
 
 https://github.com/Data-Science-East-AFrica/2021-Boot-Camp-Projects/tree/main/Project1%20Iris%20Flowers%20Classification%20Project
@@ -26,6 +29,8 @@ The expense of the house varies according to various factors like crime rate, nu
 
 It is a good ML project for beginners to predict prices on the basis of new data.
 
+**Dataset:** https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
+
 **Link to the project:**
 
 https://github.com/Data-Science-East-AFrica/2021-Boot-Camp-Projects/tree/main/Project2%20%20Housing%20Prices%20Prediction%20Project 
@@ -41,6 +46,7 @@ ___
 
 It will use the chemical information of the wine and based on the machine learning model, it will give you the result of wine quality.
 
+**DataSet:** https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 **Link to the project:** 
 
@@ -56,7 +62,10 @@ ___
 
 **Project idea** – The bitcoin price predictor is a useful project. Blockchain technology is increasing and there are many digital currencies rising.
 
-This project will help you predict the price of the bitcoin using previous data.
+This project will help you predict the price of the bitcoin using previous data. 
+
+
+**Data Set:** https://www.kaggle.com/team-ai/bitcoin-price-prediction/version/1
 
 **Link to the project:** 
 
